@@ -29,7 +29,7 @@ def mostrar_capa():
                 <div class="aluno-row"><span class="aluno-nome">Marcelo Ramos</span> <span class="aluno-ra">RA: XXXXXXXXX</span></div>
                 <div class="aluno-row"><span class="aluno-nome">Moisés Nascimento Germano</span> <span class="aluno-ra">RA: 2701352423043</span></div>
                 <div class="aluno-row"><span class="aluno-nome">Victor Henrique</span> <span class="aluno-ra">RA: XXXXXXXXX</span></div>
-                <div class="aluno-row"><span class="aluno-nome">Vitor Santos</span> <span class="aluno-ra">RA: XXXXXXXXX</span></div>
+                <div class="aluno-row"><span class="aluno-nome">Vitor Rodrigues</span> <span class="aluno-ra">RA: XXXXXXXXX</span></div>
             </div>
         </div>
     ''', unsafe_allow_html=True)
